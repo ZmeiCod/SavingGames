@@ -1,0 +1,1 @@
+Documents\Ghost Games\Need for Speed(TM) Rivals\settings
