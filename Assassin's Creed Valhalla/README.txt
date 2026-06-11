@@ -1,0 +1,1 @@
+C:\Users\Nick\AppData\Roaming\Goldberg UplayEmu Saves\13504\
