@@ -1,4 +1,4 @@
-<img src="/screen.png" alt="screen">
+<img src="screen.png" alt="screen">
 
 Для сборок от группы RELOADED, включая репаки FitGirl, сохранения находятся в общесистемной скрытой директории ProgramData. Путь к файлам: C:\ProgramData\Orbit\274\RLD!. Внутри вы обнаружите файлы с именами Save*.sav и конфигурационный файл saves.ini.
 
